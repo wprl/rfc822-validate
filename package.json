@@ -1,0 +1,15 @@
+{
+  "name": "rfc2822",
+  "version": "0.0.0",
+  "description": "Validates email addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "validation"
+  ],
+  "author": "William P. Riley-Land",
+  "license": "GPLv3"
+}
