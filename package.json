@@ -1,15 +1,22 @@
 {
-  "name": "rfc2822",
-  "version": "0.0.0",
-  "description": "Validates email addresses",
+  "name": "rfc822-validate",
+  "version": "1.0.0",
+  "description": "Check that an email address conforms to RFC822",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "email",
-    "validation"
+    "validation",
+    "validate",
+    "rfc822",
+    "rfc2822",
+    "rfc 822",
+    "rfc 2822"
   ],
-  "author": "William P. Riley-Land",
-  "license": "MIT"
+  "author": "William Riley-Land",
+  "dependencies": {
+    "amdefine": "0.0.4"
+  }
 }
