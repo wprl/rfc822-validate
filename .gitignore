@@ -1,3 +1,16 @@
+# Config
+runtime.json
+
+# OSX
+.AppleDouble
+.LSOverride
+Icon
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# NodeJS
 lib-cov
 *.seed
 *.log
@@ -6,9 +19,8 @@ lib-cov
 *.out
 *.pid
 *.gz
-
 pids
 logs
 results
-
 npm-debug.log
+node_modules
