@@ -1,7 +1,7 @@
 rfc822-validate
 ===============
 
-JavaScript function to check an email address conforms to [RFC822][1].  Compatible with Node.js and RequireJS!
+JavaScript function to check an email address conforms to [RFC822][1].  Compatible with Node.js and RequireJS/AMD!
 
 Portions copyright © 2013 William Riley-Land - http://kun.io
 Portions copyright © 2006  Ross Kendall - http://rosskendall.com
