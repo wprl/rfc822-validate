@@ -1,11 +1,11 @@
-rfc2822
-=======
+rfc822-validate
+===============
 
-JavaScript function to check an email address conforms to RFC822 (http://www.ietf.org/rfc/rfc0822.txt)
+JavaScript function to check an email address conforms to [RFC822][1].  Compatible with Node.js and RequireJS!
 
-Portions copyright (C) 2013 William Riley-Land - http://kun.io
-Portions copyright (C) 2006  Ross Kendall - http://rosskendall.com
-Portions copyright (C) 1993-2005 Cal Henderson - http://iamcal.com
+Portions copyright © 2013 William Riley-Land - http://kun.io
+Portions copyright © 2006  Ross Kendall - http://rosskendall.com
+Portions copyright © 1993-2005 Cal Henderson - http://iamcal.com
 
 Based on the PHP code by Cal Henderson
 http://iamcal.com/publish/articles/php/parsing_email/
@@ -25,7 +25,6 @@ Under the following conditions:
 
     * Attribution. You must attribute the work in the manner specified by the author or licensor.
     * Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under a license identical to this one.
-
     * For any reuse or distribution, you must make clear to others the license terms of this work.
     * Any of these conditions can be waived if you get permission from the copyright holder.
 
@@ -45,3 +44,5 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 http://www.gnu.org/copyleft/gpl.html
+
+[1]: http://www.ietf.org/rfc/rfc0822.txt "RFC822"
