@@ -1,5 +1,3 @@
-// $Id$
-
 /**
  *  * JavaScript function to check an email address conforms to RFC822 (http://www.ietf.org/rfc/rfc0822.txt)
  *  *
@@ -79,5 +77,5 @@ function isRFC822ValidEmail(sEmail) {
 }
 
 module.exports = {
-  validate: isRFC822ValidEmail
+  validate: isRFC822ValidEmail,
 };
