@@ -71,11 +71,8 @@ var sValidEmail = '^' + sAddrSpec + '$'; // as whole string
 
 var reValidEmail = new RegExp(sValidEmail);
 
-function isRFC822ValidEmail(sEmail) {
-  if (reValidEmail.test(sEmail)) return true;
-  return false;
-}
-
 module.exports = {
-  validate: isRFC822ValidEmail,
+  validate: function (email) {
+    return reValidEmail.test(email);
+  }
 };
