@@ -1,6 +1,17 @@
 {
   "name": "rfc822-validate",
+  "description": "Validate an email address in Node.js or RequireJS/AMD.  Provide validation that an email address conforms to RFC822.",
   "version": "1.0.0",
   "main": "./index.js",
+  "keywords": [
+    "email",
+    "validation",
+    "validate",
+    "validator",
+    "rfc822",
+    "rfc2822",
+    "rfc 822",
+    "rfc 2822"
+  ],
   "dependencies": {}
 }
