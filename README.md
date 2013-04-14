@@ -17,7 +17,7 @@ Licenced under Creative Commons _or_ GPL according to the terms in the LICENSE.m
 
 --
 
-Intsallation
+Installation
 ------------
 
     npm install rfc822-validate
