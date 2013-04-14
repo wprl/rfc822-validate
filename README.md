@@ -20,11 +20,11 @@ Licenced under Creative Commons _or_ GPL according to the terms in the LICENSE.m
 Intsallation
 ------------
 
-    npm install
+    npm install rfc822-validate
     
 or
 
-    bower install
+    bower install rfc822-validate
     
 Usage
 -----
