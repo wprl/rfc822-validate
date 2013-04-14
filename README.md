@@ -30,7 +30,7 @@ Usage
 -----
 
     var validate = require('rfc822-validate');
-    var s = 'test@example.com'
+    var s = 'test@example.com';
     var valid = validate(s);
     
     if (valid) console.log('s was a valid email address');
