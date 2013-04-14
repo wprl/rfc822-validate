@@ -22,7 +22,7 @@ Installation
 
     npm install rfc822-validate
     
-or
+and/or
 
     bower install rfc822-validate
     
