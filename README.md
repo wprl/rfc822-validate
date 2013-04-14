@@ -29,9 +29,9 @@ and/or
 Usage
 -----
 
-    var validate = require('rfc822-validate');
+    var validateEmail = require('rfc822-validate');
     var s = 'test@example.com';
-    var valid = validate(s);
+    var valid = validateEmail(s);
     
     if (valid) console.log('s was a valid email address');
     else console.log('s was not a valid email address');
