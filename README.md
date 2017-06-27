@@ -1,7 +1,7 @@
 rfc822-validate
 ===============
 
-This module provides a JavaScript function to check that an email address is valid and conforms to [RFC822][1].  Compatible with Node.js and RequireJS/AMD.
+This module provides a JavaScript function to check that an email address is valid and conforms to [RFC822][1].  Compatible with Node.js, RequireJS/AMD, and Webpack.
 
 Portions copyright © 2013 William Riley-Land - http://kun.io
 

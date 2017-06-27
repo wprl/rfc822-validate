@@ -1,6 +1,6 @@
 {
   "name": "rfc822-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate an email address in Node or RequireJS/AMD.  Provide validation that an email address conforms to RFC822.",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
     "rfc 822",
     "rfc 2822"
   ],
-  "author": "William Riley-Land",
-  "dependencies": {
-    "amdefine": "0.0.4"
-  }
+  "author": "William Riley-Land, Richard Fung"
 }
